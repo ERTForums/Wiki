@@ -2,7 +2,7 @@
 title: index
 description: 目录
 published: true
-date: 2024-09-10T16:06:53.615Z
+date: 2024-09-10T16:11:10.593Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T06:06:01.339Z
@@ -12,9 +12,8 @@ dateCreated: 2024-09-10T06:06:01.339Z
 {.is-warning}
 
 # 迷迭香使用说明书
-
-bilibili:[尼莫的小天使](https://space.bilibili.com/352018612)
-NGA:[LovefripSideforever](https://bbs.nga.cn/nuke.php?func=ucp&uid=41159143)
+### 作者
+* 尼莫的小天使(bilibili:[尼莫的小天使](https://space.bilibili.com/352018612)	NGA:[LovefripSideforever](https://bbs.nga.cn/nuke.php?func=ucp&uid=41159143))
 
 ## 目录
 
