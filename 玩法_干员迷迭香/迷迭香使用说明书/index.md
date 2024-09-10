@@ -2,7 +2,7 @@
 title: index
 description: 目录
 published: true
-date: 2024-09-10T15:07:06.468Z
+date: 2024-09-10T15:28:02.196Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T06:06:01.339Z
@@ -18,7 +18,7 @@ NGA:LovefripSideforever
 
 ## 目录
 
-### 前言
+* 前言
 1. 基础能力
 	1.1 面板数值
 	2.2 天赋、特性与基础机制
@@ -52,5 +52,5 @@ NGA:LovefripSideforever
 5. 常规队中的定位和特点
 6. 缺陷
 7. 如何克服缺陷——与其它干员的配合
-### 总    结
+* 总结
 * 参考资料及作战记录来源
