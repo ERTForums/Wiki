@@ -2,7 +2,7 @@
 title: index
 description: 目录
 published: true
-date: 2024-09-10T15:28:02.196Z
+date: 2024-09-10T15:32:29.392Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T06:06:01.339Z
@@ -18,8 +18,8 @@ NGA:LovefripSideforever
 
 ## 目录
 
-* 前言
-1. 基础能力
+* [前言](/玩法_干员迷迭香/迷迭香使用说明书/前言)
+1. [基础能力](/玩法_干员迷迭香/迷迭香使用说明书/基础能力)
 	1.1 面板数值
 	2.2 天赋、特性与基础机制
 	3.3 普通攻击能力
