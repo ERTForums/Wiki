@@ -2,7 +2,7 @@
 title: 主页
 description: 迷迭香终端的文档区域
 published: true
-date: 2024-09-10T05:49:30.309Z
+date: 2024-09-11T15:02:58.365Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-01T07:49:34.173Z
@@ -13,4 +13,4 @@ dateCreated: 2024-05-01T07:49:34.173Z
 
 Github仓库：https://github.com/ERTForums/Wiki
 
-Github Pages：https://ertforums.github.io/Wiki/
+Github Pages：https://wiki.rosmontis.moe/
