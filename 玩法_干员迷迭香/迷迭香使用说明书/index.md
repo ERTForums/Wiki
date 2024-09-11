@@ -2,7 +2,7 @@
 title: 目录
 description: 目录
 published: true
-date: 2024-09-11T05:46:14.314Z
+date: 2024-09-11T15:20:23.670Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T06:06:01.339Z
@@ -19,7 +19,7 @@ dateCreated: 2024-09-10T06:06:01.339Z
 
 * [前言](/玩法_干员迷迭香/迷迭香使用说明书/前言)  
 1. [基础能力](/玩法_干员迷迭香/迷迭香使用说明书/基础能力)  
-	1.1 [面板数值](https://wiki.rosmont.is/zh/%E7%8E%A9%E6%B3%95_%E5%B9%B2%E5%91%98%E8%BF%B7%E8%BF%AD%E9%A6%99/%E8%BF%B7%E8%BF%AD%E9%A6%99%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6/%E5%9F%BA%E7%A1%80%E8%83%BD%E5%8A%9B#h-11-%E9%9D%A2%E6%9D%BF%E6%95%B0%E5%80%BC)  
+	1.1 [面板数值](/%E7%8E%A9%E6%B3%95_%E5%B9%B2%E5%91%98%E8%BF%B7%E8%BF%AD%E9%A6%99/%E8%BF%B7%E8%BF%AD%E9%A6%99%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6/%E5%9F%BA%E7%A1%80%E8%83%BD%E5%8A%9B#h-11-%E9%9D%A2%E6%9D%BF%E6%95%B0%E5%80%BC)  
 	1.2 天赋、特性与基础机制  
 	1.3 普通攻击能力  
 2. 小技能  
