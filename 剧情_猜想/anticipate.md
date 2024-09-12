@@ -1,8 +1,8 @@
 ---
 title: 源石与迷迭香的关联与未来剧情猜想
-description: 
+description: 作者：十月-Oct
 published: true
-date: 2024-08-28T15:14:51.964Z
+date: 2024-09-12T15:51:40.714Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-01T11:20:33.075Z
